@@ -1,0 +1,102 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+}
+
+body {
+      font-family: Arial, sans-serif;
+      margin: 1em;
+      padding: 0;
+      background-color: #aca5a5;
+      color: #0a0a0a;
+      
+    }
+header {
+    background: blue;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+    margin: 0 0 1.5rem 0;
+    }
+  header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+  header p {
+      margin: 0.5rem 0 0;
+      font-size: 1.2rem;
+    }
+    h2{
+      margin: 0.5rem 0;
+      font-size: 1.5rem;
+      font-weight: bold;
+
+    }
+    h3{
+      margin: 0.5rem 0;
+      font-size: 1rem;
+      font-weight: bold;
+      text-align: center;
+    }
+    .projects-container{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+    margin:1.2em auto;
+    max-width:1200px;
+    padding: 0 1em;
+
+
+    }
+    .projects-section{
+      background-color: #8d7151e3;
+      margin: 2em auto;
+      padding: 2rem;
+      border-radius: 10px;
+    }
+    .card {
+      border-radius: 15px;
+      width: 300px;
+      height: 300px;
+      background-color: #f4f4f4;
+      color:#0a0a0a;
+      margin: 15px;
+      padding: 15px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border: 2px solid #ccc;
+    }
+    .card p{
+      margin: 10px 0;
+      color: #0a0a0a;
+      font-size: 0.9rem;
+      font-weight: 500;
+      text-align: center;
+    }
+    img{
+     width: 100%;
+     height: 150px;
+     object-fit: cover;
+     display:block;
+     margin: 0 auto;
+    }
+    .divider{
+      height: 5px;
+      background-color: #0d6efd;
+      width:100%;
+      margin-top: none;
+
+    }
+    footer {
+      background: #0d6efd;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    body.dark-mode {
+      background: #121212;
+      color: #e0e0e0;
+    }
