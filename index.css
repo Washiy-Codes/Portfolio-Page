@@ -12,6 +12,7 @@ body {
       padding: 0;
       background-color: #aca5a5;
       color: #0a0a0a;
+      width: 100%;
       
     }
 header {
@@ -29,33 +30,50 @@ header {
       margin: 0.5rem 0 0;
       font-size: 1.2rem;
     }
-    h2{
-      margin: 0.5rem 0;
+  .sidebar h2{
       font-size: 1.5rem;
       font-weight: bold;
+      text-align: left;
+      padding: 0.5rem 0;  
 
     }
-    h3{
+    .sidebar p{
+      font-size: 1rem;
+      line-height: 1.5;
+      text-align: left;
+    }
+    .sidebar ul{
+      list-style-type: none;
+      padding: 0;
+      line-height: 1.8;
+    }
+  h3{
       margin: 0.5rem 0;
       font-size: 1rem;
       font-weight: bold;
       text-align: center;
     }
-    .projects-container{
-    display:flex;
+  .projects-container{
+   background-color: #8d7151e3;
+  border-radius: 10px;
+  display:flex;
     justify-content: space-around;
+    flex-direction: row;
     flex-wrap:wrap;
-    margin:1.2em auto;
-    max-width:1200px;
-    padding: 0 1em;
-
+    width:75%;
+    padding:10px;
+    margin: 0 auto;
+    float: right;
 
     }
-    .projects-section{
+    .sidebar{
+      width: 23%;
+      margin-left:2px;
+      padding: 1em;
       background-color: #8d7151e3;
-      margin: 2em auto;
-      padding: 2rem;
       border-radius: 10px;
+      height: 100vh;
+      float: left;
     }
     .card {
       border-radius: 15px;
@@ -88,13 +106,6 @@ header {
       width:100%;
       margin-top: none;
 
-    }
-    footer {
-      background: #0d6efd;
-      color: white;
-      text-align: center;
-      padding: 1rem;
-      margin-top: 2rem;
     }
     body.dark-mode {
       background: #121212;
