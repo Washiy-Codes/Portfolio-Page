@@ -27,12 +27,12 @@ Each project card contains:
 - Live demo link  
 
 Examples:
--Survey Form
--Tribute Page
--Product Landing Page
--Cash Register App
--RPG Creature Search App
--Palindrome Checker
+- Survey Form
+- Tribute Page
+- Product Landing Page
+- Cash Register App
+- RPG Creature Search App
+- Palindrome Checker
 - Drum Machine
 - Calculator App
 - Todo App
