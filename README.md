@@ -31,6 +31,5 @@ Examples:
 - Calculator App
 - Todo App
 - Portfolio Website
-- (Add more as you grow 🚀)
 
 ---
