@@ -37,5 +37,6 @@ Examples:
 - Calculator App
 - Todo App
 - Portfolio Website
+- OTP Generator
 
 ---
