@@ -37,21 +37,21 @@ header {
       padding: 0.5rem 0;  
 
     }
+    .sidebar h3{
+      font-size: 1.2rem;
+      font-weight: bold;
+      text-align: left;
+      padding: 0.5rem 0;  
+    }
     .sidebar p{
       font-size: 1rem;
-      line-height: 1.5;
+      line-height: 2rem;
       text-align: left;
     }
     .sidebar ul{
       list-style-type: none;
       padding: 0;
       line-height: 1.8;
-    }
-  h3{
-      margin: 0.5rem 0;
-      font-size: 1rem;
-      font-weight: bold;
-      text-align: center;
     }
   .projects-container{
    background-color: #8d7151e3;
@@ -72,7 +72,7 @@ header {
       padding: 1em;
       background-color: #8d7151e3;
       border-radius: 10px;
-      height: 100vh;
+      height: 100%;
       float: left;
     }
     .card {
