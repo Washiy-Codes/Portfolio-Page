@@ -38,5 +38,6 @@ Examples:
 - Todo App
 - Portfolio Website
 - OTP Generator
+- e-commerce-app
 
 ---
