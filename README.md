@@ -6,15 +6,7 @@ Each project includes **screenshots**, **GitHub repository links**, and **live d
 -## 🚀 Live Demo
 🔗 [View Portfolio Live]( https://washiy-codes.github.io/Portfolio-Page/)
 ---
-## Features
-- 📁 Showcases all my projects in one place  
-- 🖼️ Project screenshots for visual context  
-- 🔗 Direct links to GitHub repositories  
-- 🌍 Live demo links for hands-on experience  
-- 📱 Fully responsive design (mobile, tablet & desktop)  
-- ⚡ Fast and smooth user experience  
 
----
 
 ## 🧩 Projects Included
 Each project card contains:
