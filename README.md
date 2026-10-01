@@ -5,8 +5,6 @@ Each project includes **screenshots**, **GitHub repository links**, and **live d
 
 ---
 
-## 🚀 Live Demo
-🔗 [View Portfolio Live]( https://washiy-codes.github.io/Portfolio-Page/)
 
 ---
 ## Features
