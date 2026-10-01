@@ -9,7 +9,7 @@ Each project includes **screenshots**, **GitHub repository links**, and **live d
 🔗 [View Portfolio Live]( https://washiy-codes.github.io/Portfolio-Page/)
 
 ---
-## ✨ Features
+## Features
 - 📁 Showcases all my projects in one place  
 - 🖼️ Project screenshots for visual context  
 - 🔗 Direct links to GitHub repositories  
